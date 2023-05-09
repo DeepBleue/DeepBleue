@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @DeepBleue
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-DeepBleue/DeepBleue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @DeepBleue <p><p>
+  
+Let's learn python together :snake: -> [Link](https://www.example.com](https://kyungwonjeong.notion.site/python-34004517fddf4443873c53c5c6690723)
